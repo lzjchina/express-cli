@@ -1,0 +1,10 @@
+{
+  //解析es6
+  "presets": [
+    "env"
+  ],
+  //支持export
+  "plugins": [
+    "add-module-exports"
+  ]
+}
